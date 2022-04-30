@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, everyone! My name is Ruitian Gao. I am a second-year Ph.D. candidate in the Department of Bioinformatics and Biostatistics, Shanghai Jiao Tong University, supervised by Prof. Zhangsheng Yu. I received B.S. in Bioinformatics and a double B.Eng. in Computer Science and Application from Shanghai Jiao Tong University. I was supported by the Zhiyuan Honors Program for graduate students of SJTU. I have great passion for cross-disciplinary research of AI + Biomedicine. Recently, my research focus on the field of Geometric Deep Learning for Biomedical Analysis.
+Hello, everyone! My name is Ruitian Gao. I am a second-year Ph.D. candidate in the Department of Bioinformatics and Biostatistics, Shanghai Jiao Tong University, supervised by Prof. Zhangsheng Yu. I received B.S. in Bioinformatics and a double B.Eng. in Computer Science and Application from Shanghai Jiao Tong University. I was supported by the Zhiyuan Honors Program for graduate students of SJTU. I have great passion for cross-disciplinary research of AI + Biomedicine. Recently, my research focuses on the field of Geometric Deep Learning for Biomedical Analysis.
 
 ## News
 - Feb 2022, as the Teaching Assistant of the course Biostatistical Models (Spring 2022).
