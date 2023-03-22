@@ -13,7 +13,7 @@ Education
 ======
 * **Shanghai Jiao Tong University** <span style="float:right;"> Shanghai, China </span><br/>
   _Ph.D. in Bioinformatics & Biostatistics_  <span style="float:right;">  Sep 2020 &mdash; Present </span><br/>
-  Supervisor: Prof. Zhangsheng Yu, Department of Bioinformatics & Biostatistics,
+  Supervisor: Prof. Zhangsheng Yu, Department of Bioinformatics & Biostatistics
 * **Shanghai Jiao Tong University** <span style="float:right;"> Shanghai, China </span><br/>
   _Bachelor of Science in Bioinformatics_ <span style="float:right;">  2020 </span><br/>
   _Bachelor of Engineering in Computer Science and Application (minor)_ <span style="float:right;">  2020 </span><br/>
@@ -21,7 +21,8 @@ Education
 
 Experience
 ======
-
+* **Teaching Assistant** <span style="float:right;"> Feb 2023 &mdash; Jun 2023 </span><br/>
+ _Shanghai Jiao Tong University (Biostatistical Models)_ <span style="float:right;"> Shanghai, China </span><br/>
 * **Teaching Assistant** <span style="float:right;"> Feb 2022 &mdash; Jun 2022 </span><br/>
  _Shanghai Jiao Tong University (Biostatistical Models)_ <span style="float:right;"> Shanghai, China </span><br/>
 * **Team Member of Modeling** <span style="float:right;"> Nov 2019 </span><br/>
