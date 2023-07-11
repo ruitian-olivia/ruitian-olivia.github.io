@@ -11,7 +11,7 @@ redirect_from:
 Hello, everyone! My name is Ruitian Gao. I am a third-year Ph.D. candidate in the Department of Bioinformatics and Biostatistics, Shanghai Jiao Tong University, supervised by Prof. Zhangsheng Yu. I received B.S. in Bioinformatics and a double B.Eng. in Computer Science and Application from Shanghai Jiao Tong University. I was supported by the Zhiyuan Honors Program for graduate students of SJTU. I have great passion for cross-disciplinary research of AI + Biomedicine. My current research area focuses on the field of precise diagnosis and prognosis of tumors using deep learning  and statistical methods based on medical images (CT, histological images) and omics data (single-cell RNA-sequencing, spatial transcriptomics).
 
 ## News
-- May 2023, Best Presentation Award of [ICBBT 2023](http://www.icbbt.org/index.htm) (15th International Conference on Bioinformatics and Biomedical Technology, May 26-28, 2023 | Xi'an, China).
+- May 2023, Best Presentation Award of [ICBBT 2023](http://www.icbbt.org/index.htm) (15th International Conference on Bioinformatics and Biomedical Technology, May 26-28, 2023, Xi'an, China).
 - Feb 2023, as the Teaching Assistant of the course Biostatistical Models (Spring 2023).
 - Dec 2022, I was awarded the China National Scholarship of 2021/22 Academic Year.
 - Jul 2022, I was awarded the [Outstanding Teaching Assistant Award](https://ctldnew.sjtu.edu.cn/storage/article/2022/12/360716f7848b469495a0ab48fe56c033.jpg) by Center for Teaching and Learning Development in SJTU.
