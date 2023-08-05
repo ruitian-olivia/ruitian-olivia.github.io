@@ -11,4 +11,9 @@ author_profile: true
 * Hong, J., **Gao, R.** and Yang, Y.  "**CrepHAN: cross-species prediction of enhancers by using hierarchical attention networks.**" Bioinformatics, 2021. [paper](https://academic.oup.com/bioinformatics/article/37/20/3436/6274648)
 * Wei, T., Yuan, X., **Gao, R.**, Johnston, L., Zhou, J., Wang, Y., Kong, W., Xie, Y., Zhang, Y., Xu, D., Yu, Z. "**Survival prediction of stomach cancer using expression data and deep learning models with histopathological image.**" Cancer Science, 2022. [paper](https://doi.org/10.1111/cas.15592)
 
+Preprint:
+* **Gao, R.**, Yuan, X., Ma, Y. et al. "**Predicting Gene Spatial Expression and Cancer Prognosis: An Integrated Graph and Image Deep Learning Approach Based on HE Slides"**. In: bioRxiv (2023).  [paper](https://www.biorxiv.org/content/10.1101/2023.07.20.549824v1)
+
+
+
 You can also find some of my publications on <a href="{{ "https://scholar.google.com/citations?hl=en&user=S7f8RTEAAAAJ"}}">my Google Scholar profile</a>.
