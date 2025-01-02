@@ -34,6 +34,8 @@ _2018 iGEM_ <span style="float:right;"> Boston, The USA </span><br/>
 
 Honors
 ======
+* **China National Scholarship** <span style="float:right;"> Dec 2024 </span><br/>
+
 * **China National Scholarship** <span style="float:right;"> Dec 2022 </span><br/>
 
 * **Outstanding Teaching Assistant Award of Shanghai Jiao Tong University** <span style="float:right;"> Jul 2022 </span><br/>
