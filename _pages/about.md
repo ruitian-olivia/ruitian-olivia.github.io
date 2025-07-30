@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello, everyone! My name is Ruitian Gao. I am a fifth-year Ph.D. candidate in the Department of Bioinformatics and Biostatistics, Shanghai Jiao Tong University, supervised by Prof. Zhangsheng Yu. I received B.S. in Bioinformatics and a double B.Eng. in Computer Science from Shanghai Jiao Tong University. I was supported by the Zhiyuan Honors Program for graduate students of SJTU. I have great passion for cross-disciplinary research of AI + Biomedicine. My current research area focuses on the field of precise diagnosis and prognosis of tumors using deep learning and statistical methods based on medical images (CT, histological images) and omics data (single-cell multi-omics, spatial transcriptomics).
+Hello, everyone! My name is Ruitian Gao. I am an Assistant Research Fellow at the Clinical Research Institute, Shanghai Jiao Tong University School of Medicine. I received my Ph.D. in Bioinformatics from Shanghai Jiao Tong University in June 2025, where I studied under the guidance of Prof. Zhangsheng Yu, and was awarded the Zhiyuan Honors Doctoral Degree. I received B.S. in Bioinformatics and a double B.Eng. in Computer Science from Shanghai Jiao Tong University in June 2020. I have great passion for cross-disciplinary research of AI + Biomedicine. My current research area focuses on the field of precise diagnosis and prognosis of tumors using deep learning and statistical methods based on medical images (CT, histological images) and omics data (single-cell multi-omics, spatial transcriptomics).
 
 ## News
+- Jul 2025, [Enhancing gastric cancer prognosis prediction via multi-step multi-modality ensemble survival modeling of HE-stained images and mIHC data](https://www.sciencedirect.com/science/article/abs/pii/S0169260725003888) was published in [Computer Methods and Programs in Biomedicine](https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine).
+- Jun 2025, I was awarded Shanghai Outstanding Graduate.
 - Dec 2024, I was awarded the China National Scholarship of 2023/24 Academic Year.
 - May 2024, [Harnessing TME depicted by histological images to improve cancer prognosis through a deep learning system](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(24)00205-2) was published in [Cell Reports Medicine](https://www.cell.com/cell-reports-medicine/home).
 - Oct 2023, One-Year Academic Exchange Supported by SJTU Zhiyuan Honors Program in HKU Prof. Wong’s [Cancer Genomics and Epigenomics Laboratory](https://www.jackwonglab.com/).
