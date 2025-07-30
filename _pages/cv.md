@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * **Shanghai Jiao Tong University** <span style="float:right;"> Shanghai, China </span><br/>
-  _Doctor of Philosophy (Ph.D.) in Bioinformatics <span style="float:right;"> 2025 &mdash; Present </span><br/>
+  _Doctor of Philosophy (Ph.D.) in Bioinformatics_ <span style="float:right;"> 2025 </span><br/>
   Supervisor: Prof. Zhangsheng Yu, Department of Bioinformatics & Biostatistics
 * **Shanghai Jiao Tong University** <span style="float:right;"> Shanghai, China </span><br/>
   _Bachelor of Science in Bioinformatics_ <span style="float:right;"> 2020 </span><br/>
