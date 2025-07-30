@@ -12,15 +12,17 @@ redirect_from:
 Education
 ======
 * **Shanghai Jiao Tong University** <span style="float:right;"> Shanghai, China </span><br/>
-  _Ph.D. in Bioinformatics & Biostatistics_  <span style="float:right;">  Sep 2020 &mdash; Present </span><br/>
+  _Doctor of Philosophy (Ph.D.) in Bioinformatics <span style="float:right;"> 2025 &mdash; Present </span><br/>
   Supervisor: Prof. Zhangsheng Yu, Department of Bioinformatics & Biostatistics
 * **Shanghai Jiao Tong University** <span style="float:right;"> Shanghai, China </span><br/>
-  _Bachelor of Science in Bioinformatics_ <span style="float:right;">  2020 </span><br/>
-  _Bachelor of Engineering in Computer Science and Application (minor)_ <span style="float:right;">  2020 </span><br/>
+  _Bachelor of Science in Bioinformatics_ <span style="float:right;"> 2020 </span><br/>
+  _Bachelor of Engineering in Computer Science and Application (minor)_ <span style="float:right;"> 2020 </span><br/>
 
 
 Experience
 ======
+* **Visiting Ph.D. Student** <span style="float:right;"> Oct 2023 &mdash; Oct 2024 </span><br/>
+ _The University of Hong Kong_ <span style="float:right;"> Hong Kong SAR, China </span><br/>
 * **Teaching Assistant** <span style="float:right;"> Feb 2023 &mdash; Jun 2023 </span><br/>
  _Shanghai Jiao Tong University (Biostatistical Models)_ <span style="float:right;"> Shanghai, China </span><br/>
 * **Teaching Assistant** <span style="float:right;"> Feb 2022 &mdash; Jun 2022 </span><br/>
@@ -34,6 +36,8 @@ _2018 iGEM_ <span style="float:right;"> Boston, The USA </span><br/>
 
 Honors
 ======
+* **Shanghai Outstanding Graduate** <span style="float:right;"> Mar 2025 </span><br/>
+
 * **China National Scholarship** <span style="float:right;"> Dec 2024 </span><br/>
 
 * **China National Scholarship** <span style="float:right;"> Dec 2022 </span><br/>
