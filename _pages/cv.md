@@ -36,6 +36,8 @@ _2018 iGEM_ <span style="float:right;"> Boston, The USA </span><br/>
 
 Honors
 ======
+* **Su Binghua Scholarship in Biostatistics** <span style="float:right;"> Jul 2025 </span><br/>
+
 * **Shanghai Outstanding Graduate** <span style="float:right;"> Mar 2025 </span><br/>
 
 * **China National Scholarship** <span style="float:right;"> Dec 2024 </span><br/>
