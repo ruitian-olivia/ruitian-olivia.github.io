@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
+* **Gao, R.**, Yang, Z., Yuan, X. et al. "**Meta-encoder: a unified integration framework for multiple pathological foundation models in cancer detection.**". Nature Communications, 2026. [paper](https://www.nature.com/articles/s41467-026-71558-x) & [code](https://github.com/ruitian-olivia/Meta-Encoder)
 * **Gao, R.**, Yuan, X., Sun, Y. et al. "**Enhancing gastric cancer prognosis prediction via multi-step multi-modality ensemble survival modeling of HE-stained images and mIHC data.**". Computer Methods and Programs in Biomedicine, 2025. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0169260725003888) & [code](https://github.com/ruitian-olivia/MMES_model)
 * **Gao, R.**, Yuan, X., Ma, Y. et al. "**Harnessing TME depicted by histological images to improve cancer prognosis through a deep learning system.**". Cell Reports Medicine, 2024. [paper](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(24)00205-2) & [code](https://github.com/ruitian-olivia/IGI-DL)
 * **Gao, R.**, Zhao, S., Aishanjiang, K. et al. "**Deep learning for differential diagnosis of malignant hepatic tumors based on multi-phase contrast-enhanced CT and clinical data.**" Journal of hematology & oncology, 2021. [paper](https://jhoonline.biomedcentral.com/articles/10.1186/s13045-021-01167-2) & [code](https://github.com/ruitian-olivia/STIC-model)
